@@ -35,7 +35,7 @@
 ### 设置分类管理
 ![img](https://note.youdao.com/yws/api/personal/file/54E31F7602814BA5B7644B749B41ED65?method=download&shareKey=fa827bbebcb9983f565166ea3a1dd431)
 
-设置客房管理
+### 设置客房管理
 
 ![img](https://note.youdao.com/yws/api/personal/file/E3D6855C52DD414D81117AA595491BFB?method=download&shareKey=ac5a7b33cc6e7228cef9d6bce353740c)
 
