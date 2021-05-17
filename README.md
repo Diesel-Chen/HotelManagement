@@ -25,19 +25,19 @@
 	- 查询所有房型采用的是分页查询
 ## 功能界面
 ### 用户登录
-![](https://note.youdao.com/yws/api/personal/file/92B542382BE244E7BC7A9858DA71FEBC?method=download&shareKey=4556ac54f0d9cba46c894648a033f5ad)
+![01](https://image.dieselchen.work/uPic/2021/05/14/01.png)
 ### 用户注册
-![img](https://note.youdao.com/yws/api/personal/file/F4BD7CFBF9C34BCD83DFF0FDB241A46A?method=download&shareKey=117fa849de550ef046c2afc4a988d3a1)
+![02](https://image.dieselchen.work/uPic/2021/05/14/02.png)
 ### 房型查询
-![img](https://note.youdao.com/yws/api/personal/file/787584832576473CB25E8956FA0FF761?method=download&shareKey=8f27e20e83a5212e9d9c576adbf80406)
+![03](https://image.dieselchen.work/uPic/2021/05/14/03.png)
 ### 订单管理
-![img](https://note.youdao.com/yws/api/personal/file/4CE6CD5A7D614EBB9449BF57E9919104?method=download&shareKey=f6fbeb46ca0585e528e1f3f6e5dfbee7)
+![04](https://image.dieselchen.work/uPic/2021/05/14/04.png)
 ### 设置分类管理
-![img](https://note.youdao.com/yws/api/personal/file/54E31F7602814BA5B7644B749B41ED65?method=download&shareKey=fa827bbebcb9983f565166ea3a1dd431)
+![05](https://image.dieselchen.work/uPic/2021/05/14/05.png)
 
 ### 设置客房管理
 
-![img](https://note.youdao.com/yws/api/personal/file/E3D6855C52DD414D81117AA595491BFB?method=download&shareKey=ac5a7b33cc6e7228cef9d6bce353740c)
+![06](https://image.dieselchen.work/uPic/2021/05/14/06.png)
 
 ## 用到相关知识总结
 - 掌握了JSP的基本语法
