@@ -25,19 +25,19 @@
 	- 查询所有房型采用的是分页查询
 ## 功能界面
 ### 用户登录
-![01](https://image.dieselchen.work/uPic/2021/05/14/01.png)
+![01](https://img.gwjzc.top/uPic/2021/05/14/01.png)
 ### 用户注册
-![02](https://image.dieselchen.work/uPic/2021/05/14/02.png)
+![02](https://img.gwjzc.top/uPic/2021/05/14/02.png)
 ### 房型查询
-![03](https://image.dieselchen.work/uPic/2021/05/14/03.png)
+![03](https://img.gwjzc.top/uPic/2021/05/14/03.png)
 ### 订单管理
-![04](https://image.dieselchen.work/uPic/2021/05/14/04.png)
+![04](https://img.gwjzc.top/uPic/2021/05/14/04.png)
 ### 设置分类管理
-![05](https://image.dieselchen.work/uPic/2021/05/14/05.png)
+![05](https://img.gwjzc.top/uPic/2021/05/14/05.png)
 
 ### 设置客房管理
 
-![06](https://image.dieselchen.work/uPic/2021/05/14/06.png)
+![06](https://img.gwjzc.top/uPic/2021/05/14/06.png)
 
 ## 用到相关知识总结
 - 掌握了JSP的基本语法
